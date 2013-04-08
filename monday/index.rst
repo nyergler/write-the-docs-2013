@@ -14,4 +14,5 @@ Contents:
    hodgdon
    cutter
    hale
+   george-tsai
    lightning-talks
