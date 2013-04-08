@@ -13,4 +13,5 @@ Contents:
    grant
    hodgdon
    cutter
+   hale
    lightning-talks
