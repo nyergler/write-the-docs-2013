@@ -15,4 +15,5 @@ Contents:
    cutter
    hale
    george-tsai
+   talbot
    lightning-talks
