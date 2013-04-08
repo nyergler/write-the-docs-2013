@@ -12,3 +12,4 @@ Contents:
    butterick
    grant
    hodgdon
+   lightning-talks
