@@ -12,4 +12,5 @@ Contents:
    butterick
    grant
    hodgdon
+   cutter
    lightning-talks
