@@ -55,7 +55,7 @@ will happen post sprint.
 
 FAQs: Stop the Cargo Cult
 -------------------------
-:Author: Eric Non-Holscher # XXX fixme
+:Author: Eric Redmond
 
 An FAQ is a bad code smell, a bad documentation smell. It's a sign
 that the docs aren't put together well and don't actually answer the
