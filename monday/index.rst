@@ -17,4 +17,5 @@ Contents:
    george-tsai
    talbot
    lindsley
+   philips
    lightning-talks
