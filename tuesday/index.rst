@@ -10,3 +10,4 @@ Tuesday
    daly
    hartnett-henderson
    waterhouse
+   socol
