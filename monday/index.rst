@@ -19,4 +19,5 @@ Contents:
    lindsley
    philips
    kuchling
+   johnston
    lightning-talks
