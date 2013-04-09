@@ -11,3 +11,4 @@ Tuesday
    hartnett-henderson
    waterhouse
    socol
+   rentz
