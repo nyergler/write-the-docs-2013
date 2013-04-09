@@ -4,7 +4,7 @@ Translating Science into Poetry
 :Authors: Daniya Kamran
 :Time: 9:40
 :Session: http://docs.writethedocs.org/en/2013/conference/talks.html#daniya-kamran
-:Link:
+:Link: @daniyakamran
 
 Kamran is an interventionist and a translator: her job is to take
 complex, deep topics like nutrition for children or the state of
