@@ -12,3 +12,4 @@ Tuesday
    waterhouse
    socol
    rentz
+   goliak
