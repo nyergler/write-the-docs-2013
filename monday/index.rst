@@ -18,4 +18,5 @@ Contents:
    talbot
    lindsley
    philips
+   kuchling
    lightning-talks
