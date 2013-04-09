@@ -19,8 +19,6 @@ community. This is the first WTD, so we get to set the example for the
 WTD community that will [hopefully] grow around this.
 
 
-Contents:
-
 .. toctree::
    :maxdepth: 2
 

@@ -1,8 +1,6 @@
 Monday
 ======
 
-Contents:
-
 .. toctree::
    :maxdepth: 2
 
