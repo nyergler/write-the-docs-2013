@@ -7,3 +7,4 @@ Tuesday
    plunkett
    kamran
    tauber
+   daly
