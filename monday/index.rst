@@ -16,4 +16,5 @@ Contents:
    hale
    george-tsai
    talbot
+   lindsley
    lightning-talks
