@@ -3,7 +3,7 @@ Motivating developers to write API documentation
 
 :Authors: Jennifer Hodgdon
 :Session: http://docs.writethedocs.org/en/2013/conference/talks.html#jennifer-hodgdon
-:Link:
+:Video: https://www.youtube.com/watch?v=o99GhqUIbDA
 
 Let's dispense with the question of whether or not you *need* API
 documentation. You do. But how do you get it written? There are sort

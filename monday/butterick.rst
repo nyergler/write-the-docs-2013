@@ -5,6 +5,7 @@ Typography for Docs
 :Time: 11:00
 :Session: http://docs.writethedocs.org/en/2013/conference/talks.html#matthew-butterick
 :Link: http://www.typographyforlawyers.com/
+:Video: https://www.youtube.com/watch?v=8J6HuvosP0s
 
 Before computers the most amazing machines were type foundries and
 presses. So programming and typography have a lot in common. In 1994

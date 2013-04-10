@@ -6,6 +6,7 @@ Getting Developers and Engineers to Write the Docs
 :Session: http://docs.writethedocs.org/en/2013/conference/talks.html#kevin-hale
 :Link: @ilikevests
 :Link: https://speakerdeck.com/roundedbygravity/how-i-got-everyone-to-write-the-documentation
+:Video: https://www.youtube.com/watch?v=mBRCq-AvYmU
 
 Hale is from Survey Monkey, and founded Wufoo. It's web-based
 Microsoft Access, that looks like it's designed by Fischer-Price.

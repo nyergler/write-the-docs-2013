@@ -4,7 +4,7 @@ Generating a Culture of Doc
 :Authors: Leah Cutter
 :Time: 14:00
 :Session: http://docs.writethedocs.org/en/2013/conference/talks.html#leah-cutter
-:Link:
+:Video: https://www.youtube.com/watch?v=v41nPTpXnHQ
 
 Leah Cutter is a knowledge management specialist, and has been doing
 technical writing since 1985. So what does a knowledge management

@@ -5,6 +5,7 @@ Beautiful Documents: A Language Love Story
 :Time: 10:40
 :Session: http://docs.writethedocs.org/en/2013/conference/talks.html#erin-robbins-obrien
 :Link: @texasgirlerin
+:Video: https://www.youtube.com/watch?v=ShYkFM3738Y
 
 How do you continue loving what you're doing? Writing documentation
 isn't always easy, but it's supposed to be worth. A career is like
