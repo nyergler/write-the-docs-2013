@@ -13,3 +13,4 @@ Tuesday
    socol
    rentz
    goliak
+   duvander
