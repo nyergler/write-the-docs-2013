@@ -14,3 +14,4 @@ Tuesday
    rentz
    goliak
    duvander
+   nelson
